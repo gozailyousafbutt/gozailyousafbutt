@@ -32,7 +32,7 @@
 
 ### 🛠️ Technical Architecture
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,sql,pandas,numpy,pytorch,tensorflow,opencv,flask,streamlit,docker,git,github,vscode,linux&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=py,sql,pandas,numpy,pytorch,tensorflow,opencv,flask,streamlit,docker,vscode&theme=dark" />
 </p>
 
 | Domain | Enterprise Stack and Competencies |
