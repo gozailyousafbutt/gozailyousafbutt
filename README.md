@@ -2,9 +2,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=220&section=header&text=Gozail%20Yousaf%20Butt&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=40" width="100%" />
 </p>
 
-<h1 align="center">
-  AI and Machine Learning Engineer | Data Scientist
-</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&duration=4000&pause=1500&color=37BCF8&vCenter=true&center=true&lines=Data+Scientist;AI+and+ML+Engineer;GenAI+Specialist" alt="Gozail Yousaf Butt" />
+</p>
 
 <p align="center">
   <em>Bridging raw data intelligence with strategic business outcomes.</em>
@@ -21,9 +21,13 @@
 
 ---
 
-### ⚡ GitHub Trophies and Stats
+### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gozailyousafbutt&theme=radical&no-bg=true&no-frame=true&margin-w=10" alt="GitHub Trophies" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gozailyousafbutt&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gozailyousafbutt&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
@@ -38,13 +42,13 @@
 | **🧠 Core AI and ML** | Python, SQL, Scikit-learn, Deep Learning (ANN, RNN/LSTM, CNN), Optimization Algorithms |
 | **👁️ Computer Vision** | OpenCV, YOLO, U-Net, Advanced Image Segmentation, Real-time Object Detection |
 | **🚀 Generative AI and RAG** | LangChain, Vector Databases, Prompt Engineering, LLM Orchestration, Retrieval-Augmented Generation |
-| **⚙️ Deployment and MLOps**| Flask, Streamlit, FastAPI, Docker Containers, Cloud Platforms (AWS/Azure - Learning) |
+| **⚙️ Deployment and MLOps**| Flask, Streamlit, FastAPI, Docker Containers |
 | **📊 Data and Analytics** | NumPy, Pandas, Advanced Excel, ETL Pipelines, Power BI, Tableau, Star-Schema Modeling, DAX |
 
 ---
 
 ### 🎓 Academic Background
-* **BS in Data Science** (Last 2 years in progress) 
+* **BS in Data Science** (Last 2 years in progress)
 * **ADP in Database Management** 
 
 ---
