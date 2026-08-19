@@ -21,14 +21,12 @@
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gozailyousafbutt&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gozailyousafbutt&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
+### 👋 About Me 
+* 🌱 I am a passionate **Data Scientist and AI/ML Engineer** currently in the final years of my BS in Data Science.
+* 🚀 **Quick Learner and Adaptable:** Possess a natural knack for grasping new tools and technologies rapidly, backed by strong **adaptability** and a **growth mindset** to master complex technical concepts effortlessly.
+* 🧠 **Practical and Critical Thinker:** Bring a **practical, hands-on mindset** combined with sharp **critical thinking and decision-making** skills to transform chaotic datasets into streamlined, autonomous predictive systems.
+* ⚡ **Independent and Collaborative:** Fully capable of driving projects **independently** with strong **time management and organization**, while also thriving in **teamwork** and cross-functional collaboration with clear **communication**.
+* 💡 Driven by a positive attitude to bridge the gap between technical execution and high-impact business solutions.
 
 ---
 
@@ -48,8 +46,8 @@
 ---
 
 ### 🎓 Academic Background
-* **BS in Data Science** (Last 2 years in progress)
-* **ADP in Database Management** 
+* **BS in Data Science** (In Progress, Final Years) 
+* **Associate Degree Program (ADP) in Database Management** 
 
 ---
 
@@ -68,7 +66,7 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=gozailyousafbutt&color=00f5ff&style=for-the-badge&label=PROFILE+VIEWS" alt="Visitor Count" />
+  <img src="https://komarev.com/ghpvc/?username=gozailyousafbutt&color=db2777&style=for-the-badge&label=PROFILE+VIEWS" alt="Visitor Count" />
 </p>
 
 <p align="center">
