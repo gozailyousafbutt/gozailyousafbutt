@@ -3,11 +3,11 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&duration=4000&pause=1500&color=37BCF8&vCenter=true&center=true&lines=Data+Scientist;AI+and+ML+Engineer;GenAI+Specialist" alt="Gozail Yousaf Butt" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&duration=4000&pause=1500&color=37BCF8&vCenter=true&center=true&width=650&lines=Data+Scientist;AI+and+ML+Engineer;GenAI+Specialist;Data+Analyst+and+BI+Specialist" alt="Gozail Yousaf Butt" />
 </p>
 
 <p align="center">
-  <em>Bridging raw data intelligence with strategic business outcomes.</em>
+  <em>Trained on chaos, powered by Python, and building end-to-end AI and BI systems that talk business.</em>
 </p>
 
 <p align="center">
@@ -70,5 +70,5 @@
 </p>
 
 <p align="center">
-  <em>"Turning chaotic data into autonomous predictive systems."</em>
+  <em>"From chaotic data to autonomous AI and BI solutions."</em>
 </p>
